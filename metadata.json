@@ -1,0 +1,7 @@
+{
+  "name": "LunchEasy AI",
+  "description": "A smart lunch recommendation system to help people in Georgetown decide where to eat quickly and satisfyingly, tailored to their budget, taste, distance, and dietary needs.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
